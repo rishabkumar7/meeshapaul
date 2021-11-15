@@ -24,5 +24,3 @@ var typed3 = new Typed('#typed3', {
     loop: false,
     fadein: true
 });
-
-

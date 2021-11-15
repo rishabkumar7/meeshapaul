@@ -72,6 +72,18 @@ input, select, textarea {
 	appearance: none;
 }
 
+@media (min-width:442px) {
+	.responsiveFrame { width:100px; height:100px; }
+}
+
+@media (min-width:642px) {
+	.responsiveFrame { width:100px; height:100px; }
+}
+
+@media (min-width:782px) {
+	.responsiveFrame { width:560px; height:315px; }
+}
+
 /* Page */
 
 	@-moz-keyframes load-spinner {
